@@ -46,6 +46,7 @@ const App = () => (
 
 ReactDOM.render(<App />, document.getElementById('root'))
 ```
+export default App;
 
 The files <i>App.js</i>, <i>App.css</i>, <i>App.test.js</i>, <i>logo.svg</i> and <i>serviceWorker.js</i> may be deleted as they are not needed in our application right now.
 
